@@ -1,6 +1,6 @@
 # DEMO
 this is a test file
 
-# some new lines 
+# local development
 
-just to commit
+1. Open index.html in your browser 
